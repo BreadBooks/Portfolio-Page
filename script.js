@@ -3,7 +3,7 @@
     $('.parallax').parallax();
   });
        
-  $('.carousel.carousel-slider').carousel({
+  $('.carousel-slider').carousel({
     fullWidth: true,
     indicators: true
   });
