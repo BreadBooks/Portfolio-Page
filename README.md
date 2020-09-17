@@ -1,7 +1,10 @@
 # Updated Portfolio Page
 My still WIP new and improved responsive portfolio.
-![Preview](/assets/preview.png)
-I've included my group project as well as two other applications. 
+
+![](/assets/Preview.png)
+
+I've included my group project as well as two other applications.
+
 I've also switched my bootstrap framework for [Materialize Css](https://materializecss.com/about.html)
 
 
