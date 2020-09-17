@@ -1,13 +1,8 @@
-
+// Initalizaing Parallax
     $(document).ready(function() {
     $('.parallax').parallax();
   });
-       
-  $('.carousel-slider').carousel({
-    fullWidth: true,
-    indicators: true
-  });
-        
+// Initalizaing Sidenav for mobile
   $(document).ready(function(){
     $('.sidenav').sidenav();
   });

@@ -1,14 +1,18 @@
+/*Bg color, text color, & font*/
 body {
     font-family: 'Open Sans Condensed', sans-serif;
     background-color:#e91e63 ;
     color: white;
     
 }
+/*Card Paragraphs*/
 p {
     font-size: 35px;
     line-height: 2px;
     text-shadow: 1px 1px 2px #000000;
 }
+
+/*Nav Styling*/
 nav .brand-logo {
     letter-spacing: 2px;
     line-height: none;
@@ -19,7 +23,7 @@ nav .nav-title {
     font-size: 15px;
     text-shadow: 1px 1px 2px #000000;
 }
-      
+/* Card Styling */
   .card-container {
       width: 500px;
   }
