@@ -8,3 +8,6 @@
     indicators: true
   });
         
+  $(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
